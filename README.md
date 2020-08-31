@@ -7,6 +7,8 @@ Review the data from Airbnb operations in New York, predict listings and neighbo
 
 •	Determine the average price of each room type in New York City
 
+Related Blog post (https://medium.com/@damolaonakade/best-spots-to-pass-the-night-with-airbnb-in-new-york-city-bec64416d166)
+
 ## Gather Data
 Download data from kaggle (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) on your computer
 
